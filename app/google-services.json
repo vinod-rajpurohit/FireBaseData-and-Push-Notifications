@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "527448898831",
+    "project_id": "otptest-c07ef",
+    "storage_bucket": "otptest-c07ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527448898831:android:4a302a961e09736886527a",
+        "android_client_info": {
+          "package_name": "com.example.downloadpdf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWd08vSnkwg0tizfqeTrD8t3YLIhplS1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527448898831:android:d99b85c252e95aca86527a",
+        "android_client_info": {
+          "package_name": "com.example.firebasedata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWd08vSnkwg0tizfqeTrD8t3YLIhplS1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
